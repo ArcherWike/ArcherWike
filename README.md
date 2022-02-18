@@ -5,8 +5,15 @@
 </div>
 Here are some ideas to get you started:
 
+About me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: wiktoria.szczepanska.x@gmail.com
 
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+</div>
