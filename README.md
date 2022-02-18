@@ -5,12 +5,12 @@
 </div>
 Here are some ideas to get you started:
 
-About me:
+### About me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: wiktoria.szczepanska.x@gmail.com
-
+### :hammer_and_wrench: Languages and Tools :
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
