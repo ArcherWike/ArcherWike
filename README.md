@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: wiktoria.szczepanska.x@gmail.com
+- 📫 How to reach me: [Gmail](mailto:wiktoria.szczepanska.x@gmail.com)
 </div>
 <a href="https://discordapp.com/users/918139445805461544" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
 </p>
