@@ -10,6 +10,11 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: wiktoria.szczepanska.x@gmail.com
+<div> 
+  <img src="https://discord.com/channels/@me/918139445805461544" title="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707" width="40" height="40"/>
+</div>
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
