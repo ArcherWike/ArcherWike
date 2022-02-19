@@ -10,10 +10,9 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: wiktoria.szczepanska.x@gmail.com
-<div> 
-  <img src="https://discord.com/channels/@me/918139445805461544" title="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707" width="40" height="40"/>
 </div>
-
+<a href="https://discordapp.com/users/918139445805461544" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
