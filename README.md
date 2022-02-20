@@ -21,7 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ArcherWike/devicons/blob/main/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ArcherWike/devicons/blob/main/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/arduino/arduino-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
 </div>
 
 
