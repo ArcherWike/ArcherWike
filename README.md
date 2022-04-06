@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Wiktoria
-
+:)
 <div>
   <img src="https://knowledge-hub.com/wp-content/uploads/2022/02/Monkey_Kid_Coding.gif" width="200"/>
 </div>
