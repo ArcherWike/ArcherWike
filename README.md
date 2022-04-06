@@ -12,6 +12,8 @@
 - 📫 How to reach me: [Gmail](mailto:wiktoria.szczepanska.x@gmail.com)
 </div>
 <a href="https://discordapp.com/users/918139445805461544" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
+<a href="https://www.instagram.com/archerywike/" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
+<a href="https://www.instagram.com/archerywike/" target="blank"><img align="center" src="https://img.shields.io/github/followers/ArcherWike?style=socialColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
