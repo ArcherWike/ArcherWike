@@ -6,8 +6,8 @@
 
 
 ### About me:
-- 🔭 I’m currently working on RPG game
-- 🌱 I’m currently learning Godot
+- 🔭 I’m currently working on... it's a secret :P
+- 🌱 I’m currently learning UE
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Gmail](mailto:wiktoria.szczepanska.x@gmail.com)
 </div>
