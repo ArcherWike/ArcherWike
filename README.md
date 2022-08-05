@@ -24,6 +24,7 @@
   <img src="https://github.com/ArcherWike/devicons/blob/main/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ArcherWike/devicons/blob/main/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ArcherWike/devicons/blob/main/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArcherWike&show_icons=true&langs_count=8&theme=dracula&hide_border=true&layout=compact&hide=C%23" alt="ArcherWike" alt="ArcherWike top languages"/>
 </div>
 
 
