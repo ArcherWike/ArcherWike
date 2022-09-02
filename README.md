@@ -1,19 +1,18 @@
-### Hi there 👋 I am Wiktoria
-:)
+### Hi there 👋 I'm Wiktoria 17 year old passionate game developer.
 <div>
   <img src="https://knowledge-hub.com/wp-content/uploads/2022/02/Monkey_Kid_Coding.gif" width="200"/>
 </div>
 
 
 ### About me:
-- 🔭 I’m currently working on... it's a secret :P
+- 🔭 I’m currently working on improving programming skills for game development by creating their own projects.
 - 🌱 I’m currently learning UE
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Gmail](mailto:wiktoria.szczepanska.x@gmail.com)
 </div>
 <a href="https://discordapp.com/users/918139445805461544" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
 <a href="https://www.instagram.com/archerywike/" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
-<a href="https://www.instagram.com/archerywike/" target="blank"><img align="center" src="https://img.shields.io/github/followers/ArcherWike?style=socialColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
+<a href="https://platform.linkedin.com/badges/js/profile.js" target="blank"><img align="center" src="https://img.shields.io/github/followers/ArcherWike?style=socialColor=5865F2&logo=discord&logoColor=white" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707"/></a>
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
