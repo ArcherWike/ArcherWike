@@ -2,9 +2,8 @@
 <h3 align="center">A  17 year old passionate game developer.</h3>
 
 
-### Hi there 👋 I'm Wiktoria 17 year old passionate game developer.
 <div>
-  <img align="center" src="https://knowledge-hub.com/wp-content/uploads/2022/02/Monkey_Kid_Coding.gif" width="200"/>
+  <img align="center" src="https://knowledge-hub.com/wp-content/uploads/2022/02/Monkey_Kid_Coding.gif" width="300"/>
 </div>
 
 
