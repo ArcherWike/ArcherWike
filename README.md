@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiktoria</h1>
-<h3 align="center">A  17 year old passionate game developer.</h3>
+<h3 align="center">A  18 year old passionate game developer.</h3>
 
 
 <div>
@@ -22,12 +22,12 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
-  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ArcherWike/devicons/87bca7c3fb6d01c15937a80e99f1080aa487eb73/icons/python/python-original.svg?token=AU5HKWPZG2IAPWR3V2ALJVDDNUVGE" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/ArcherWike/devicons/87bca7c3fb6d01c15937a80e99f1080aa487eb73/icons/godot/godot-original.svg?token=AU5HKWN7TVVMAA2RI45BVHTDNUVLS" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/ArcherWike/devicons/main/icons/unity/unity-icon-png-6.jpg?token=GHSAT0AAAAAABWF3LWYNPVJOSSKNYML75HKY3NHJ7A" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/ArcherWike/devicons/87bca7c3fb6d01c15937a80e99f1080aa487eb73/icons/cplusplus/cplusplus-plain.svg?token=AU5HKWKTUN7AVHCR5B6JKXLDNUVLE" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/ArcherWike/devicons/87bca7c3fb6d01c15937a80e99f1080aa487eb73/icons/photoshop/photoshop-plain.svg?token=AU5HKWLAHITPKWIVJJ3UPR3DNUVL4" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/ArcherWike/devicons/87bca7c3fb6d01c15937a80e99f1080aa487eb73/icons/arduino/arduino-original.svg?token=AU5HKWO37PLUGFJXWAB34ETDNUVPK" title="Arduino" alt="Arduino" width="40" height="40"/>
 </div>
 
 
