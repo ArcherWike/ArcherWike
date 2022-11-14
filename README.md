@@ -6,9 +6,7 @@
   <img align="center" src="https://knowledge-hub.com/wp-content/uploads/2022/02/Monkey_Kid_Coding.gif" width="300"/>
 </div>
 
-<div>
-  <img align="center" src="https://media.discordapp.net/attachments/927278123442114650/1041677043064127568/filmik_podglad_100mb-Trim.gif" width="300"/>
-</div>
+
 
 ### About me:
 - 🔭 I’m currently working on improving programming skills for game development.
