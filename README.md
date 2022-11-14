@@ -6,9 +6,12 @@
   <img align="center" src="https://knowledge-hub.com/wp-content/uploads/2022/02/Monkey_Kid_Coding.gif" width="300"/>
 </div>
 
+<div>
+  <img align="center" src="https://media.discordapp.net/attachments/927278123442114650/1041677043064127568/filmik_podglad_100mb-Trim.gif" width="300"/>
+</div>
 
 ### About me:
-- 🔭 I’m currently working on improving programming skills for game development by creating my own projects.
+- 🔭 I’m currently working on improving programming skills for game development.
 - 🌱 I’m currently learning UE
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Gmail](mailto:wiktoria.szczepanska.x@gmail.com)
@@ -27,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/ArcherWike/devicons/main/icons/unity/unity-icon-png-6.jpg?token=GHSAT0AAAAAABWF3LWYNPVJOSSKNYML75HKY3NHJ7A" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/ArcherWike/devicons/59545266d38cae1247df1955c822c8ae3831f4a1/icons/cplusplus/cplusplus-original.svg?token=AU5HKWIRJN5MVUYIA3MWKIDDNUXCA" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/ArcherWike/devicons/59545266d38cae1247df1955c822c8ae3831f4a1/icons/photoshop/photoshop-plain.svg?token=AU5HKWJA5LFK4JHA6CEOAVDDNUW5G" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/ArcherWike/devicons/59545266d38cae1247df1955c822c8ae3831f4a1/icons/cplusplus/cplusplus-original.svg?token=AU5HKWIRJN5MVUYIA3MWKIDDNUXCA" title="Arduino" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ArcherWike/devicons/59545266d38cae1247df1955c822c8ae3831f4a1/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
 </div>
 
 
