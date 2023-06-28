@@ -2,7 +2,7 @@
 
 ___________
 <div id="badges">
-  <a href="https://www.linkedin.com/in/wiktoria-szczepańska-8b6b1a24a/" target="blank">
+  <a href="https://www.linkedin.com/in/wiktoria-szczepanska/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wiktoria Szczepańska" Badge" width="240"/>
   </a>
   <a href="https://discordapp.com/users/918139445805461544" target="blank" >
