@@ -77,17 +77,6 @@ ___________
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" width="48" height="48" alt="GitLab" />
       <br>Blender
     </td>
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="HTML" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" height="48" alt="css" />
-      <br>StackOverflow
-    </td>
-    <td align="center"  width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="48" height="48" alt="bootstrap" />
-      <br>Discord
     </td>
   </tr>
  <tr>
