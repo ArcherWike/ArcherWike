@@ -1,6 +1,5 @@
-![github-header-image](https://github.com/ArcherWike/ArcherWike/assets/87717209/7a65f525-232f-4be3-aab3-c00763384c63)
+![github-header-image](https://github.com/ArcherWike/ArcherWike/assets/87717209/3790532b-0479-4301-b969-97dbbb07af93)
 
-___________
 <div id="badges">
   <a href="https://www.linkedin.com/in/wiktoria-szczepanska/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wiktoria Szczepańska" Badge" width="240"/>
