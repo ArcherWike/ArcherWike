@@ -16,6 +16,7 @@
 </div>
 
 
+
 ### About me:
 - 🔭 I’m currently working on improving programming skills for game development.
 - 🌱 I’m currently learning UE and Game AI 
@@ -47,7 +48,7 @@
       <br>C++
     </td>
        <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/28e6f144aefcedd9d0fd391a0415271fd795970a553e67967583ecee08f9dd95/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
        <td align="center" width="96">
