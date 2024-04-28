@@ -1,17 +1,17 @@
 ![github-header-image](https://github.com/ArcherWike/ArcherWike/assets/87717209/3790532b-0479-4301-b969-97dbbb07af93)
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wiktoria-szczepanska/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wiktoria Szczepańska" Badge" width="240"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wiktoria Szczepańska" width="200" height="50" />
   </a>
   <a href="https://discordapp.com/users/918139445805461544" target="blank" >
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A66C2" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707" alt="Discord Badge" width="250"/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A66C2" alt="ᴀʀᴄʜᴇʀʏᴡɪᴋᴇ#4707" alt="Discord Badge" width="200" height="50"/>
   </a>
   <a href="https://www.youtube.com/watch?v=4I7YcoAXOWw&list=PLvoiEqXWx9UNonhqDmcUoSNuX5OeOWuZr&pp=gAQBiAQB">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" width="230"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" width="200" height="50"/>
   </a>
    <a href="https://github.com/ArcherWike">
-    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white"  alt="Github Badge" width="210"/>
+    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white"  alt="Github Badge" width="200" height="50"/>
   </a>
 </div>
 
