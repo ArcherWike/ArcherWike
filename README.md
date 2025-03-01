@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/ArcherWike/ArcherWike/assets/87717209/3790532b-0479-4301-b969-97dbbb07af93)
+![github-header-image](https://github.com/user-attachments/assets/0287d7ec-21e2-4c75-9456-c0740fceb436)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wiktoria-szczepanska/" target="blank">
